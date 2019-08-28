@@ -8,6 +8,7 @@
     "hangouts-bot": "^0.2.1",
     "hangupsjs": "^1.3.8",
     "keybase-bot": "^2.0.4",
+    "linkifyjs": "^2.1.8",
     "var_dump": "^1.0.5",
     "winston": "^0.7.1"
   },
